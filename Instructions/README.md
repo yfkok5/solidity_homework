@@ -2,15 +2,16 @@
 
 ![alt=“”](Images/20-5-challenge-image.png)
 
-
 Deploying Contract - Putting in 12 wei
 ![1 wei](Execution_Results/image1.PNG)
+
 
 Screenshots of Withdrawing 1 wei
 ![1 wei](Execution_Results/withdraw1wei.PNG)
 
+
 Screenshots of Withdrawing 10 wei
-![10 wei](Execution_Results/withdraw10wei.PNG)
+![10 wei](Execution_Results/withdraw10wei.png)
 
 
 ### Background
